@@ -1,0 +1,14 @@
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.AssemblyInfo.cs
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.exe
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.deps.json
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.runtimeconfig.json
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.dll
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.pdb
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.dll
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\obj\Debug\net8.0\refint\RestaurantMenu.dll
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.pdb
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.genruntimeconfig.cache
+C:\Users\dhami\Coding\LaunchCode\Unit_2\RestaurantMenu\obj\Debug\net8.0\ref\RestaurantMenu.dll
